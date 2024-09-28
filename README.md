@@ -5,10 +5,10 @@ My data science and analytics projects
 1. Google sheets
 1. SQL databases
 3. R programming
-   3.1 Pao-ying-chub game
-   3.2 Chatbot pizza
-   3.3 Titanic prediction
-   3.4 Creat table restuarant
+   ### Pao-ying-chub game
+   ### Chatbot pizza
+   ### Titanic prediction
+   ### Creat table restuarant
 5. Dashboard
 6. Linear Regression Model using caret
 
