@@ -1,0 +1,27 @@
+<cafe>
+  <menu>
+      <name>Espesso</name>
+      <price>2.50</price>
+      <calories>100</calories>
+  </menu>
+  <menu>
+      <name>Americano</name>
+      <price>3.00</price>
+      <calories>150</calories>
+  </menu>
+  <menu>
+      <name>Cappuccino</name>
+      <price>3.50</price>
+      <calories>200</calories>
+  </menu>
+  <menu>
+      <name>Latte</name>
+      <price>3.50</price>
+      <calories>250</calories>
+  </menu>
+  <menu>
+      <name>Mocha</name>
+      <price>3.45</price>
+      <calories>250</calories>
+  </menu>
+</cafe>
