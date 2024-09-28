@@ -13,4 +13,4 @@ My data science and analytics projects
 5. Linear Regression Model using caret (coming soon)
 
 ## contact me
-reach out to me at supitcha.kamo@gmail.com
+To inquire about me or discuss potential collaborations, please use the contact form above or send me an email directly. supitcha.kamo@gmail.com
