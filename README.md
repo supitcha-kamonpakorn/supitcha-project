@@ -2,9 +2,7 @@
 My data science and analytics projects
 
 ## My personal projects
-1. Google sheet
-
-2. 
+1. Google sheets
 1. SQL supermarket analysis
 2. SQL churn analysis
 3. Pao-ying-chub R programming
