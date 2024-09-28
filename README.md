@@ -12,5 +12,5 @@ My data science and analytics projects
 4. Dashboard
 5. Linear Regression Model using caret (coming soon)
 
-## contact me
+## Contact me
 To inquire about me or discuss potential collaborations, please use the contact form above or send me an email directly. supitcha.kamo@gmail.com
